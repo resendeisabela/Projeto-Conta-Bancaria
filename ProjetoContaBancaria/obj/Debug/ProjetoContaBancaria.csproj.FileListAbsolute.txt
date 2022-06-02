@@ -1,0 +1,8 @@
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\bin\Debug\ProjetoContaBancaria.exe.config
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\bin\Debug\ProjetoContaBancaria.exe
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\bin\Debug\ProjetoContaBancaria.pdb
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\obj\Debug\ProjetoContaBancaria.csproj.AssemblyReference.cache
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\obj\Debug\ProjetoContaBancaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\obj\Debug\ProjetoContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\obj\Debug\ProjetoContaBancaria.exe
+C:\Users\estagio.sst18\source\repos\ProjetoContaBancaria\ProjetoContaBancaria\obj\Debug\ProjetoContaBancaria.pdb
